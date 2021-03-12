@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/adobe-uxp/uxp-websocket-example#readme",
   "dependencies": {
-    "websocket": "^1.0.32"
+    "websocket": "^1.0.33"
   }
 }
